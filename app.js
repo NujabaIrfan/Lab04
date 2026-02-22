@@ -18,3 +18,4 @@ async function myFunction() {
 }
 
 myFunction();
+// Output: "Success!"
